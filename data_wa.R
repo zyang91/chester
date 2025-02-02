@@ -36,3 +36,15 @@ ridership_chester_Sunday<-ridership_chester_Sunday %>%
 write.csv(ridership_chester_weekday, "export/ridership_chester_weekday.csv")
 write.csv(ridership_chester_Saturday, "export/ridership_chester_Saturday.csv")
 write.csv(ridership_chester_Sunday, "export/ridership_chester_Sunday.csv")
+
+ggplot(ridership_chester_weekday, aes(x=Census_Tract_Name, y= On_))+
+  geom_bar(stat="identity")+
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+ridershipe_chester_weekend<-rbind(ridership_chester_Saturday, ridership_chester_Sunday)
+
+ridershipe_chester_weekend<-ridershipe_chester_weekend %>%
+  group_by(Census_Tract_ID)%>%
+  summarise(On_=mean(On_), Off_=mean(Off_))
+
+write.csv(ridershipe_chester_weekend, "export/ridershipe_chester_weekend.csv")
