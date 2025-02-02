@@ -1,13 +1,13 @@
 "","County_Name","Census_Tract_ID","Census_Tract_Name","Mode","Season","Day_of_Week","On_","Off_","ObjectId"
-"1","Delaware County",42045401700,"Census Tract 4017","Bus","Fall 2023","Saturday",120,186,16048
-"2","Delaware County",42045404400,"Census Tract 4044","Bus","Fall 2023","Saturday",137,57,16119
-"3","Delaware County",42045404500,"Census Tract 4045","Bus","Fall 2023","Saturday",73,152,16120
-"4","Delaware County",42045404600,"Census Tract 4046","Bus","Fall 2023","Saturday",40,47,16121
-"5","Delaware County",42045404700,"Census Tract 4047","Bus","Fall 2023","Saturday",127,153,16122
-"6","Delaware County",42045404800,"Census Tract 4048","Bus","Fall 2023","Saturday",79,70,16123
-"7","Delaware County",42045404900,"Census Tract 4049","Bus","Fall 2023","Saturday",11,24,16124
-"8","Delaware County",42045405000,"Census Tract 4050","Bus","Fall 2023","Saturday",1130,1016,16125
-"9","Delaware County",42045405100,"Census Tract 4051","Bus","Fall 2023","Saturday",69,72,16126
-"10","Delaware County",42045405200,"Census Tract 4052","Bus","Fall 2023","Saturday",101,109,16127
-"11","Delaware County",42045405300,"Census Tract 4053","Bus","Fall 2023","Saturday",64,106,16128
-"12","Delaware County",42045405400,"Census Tract 4054","Bus","Fall 2023","Saturday",86,51,16129
+"1","Delaware County",42045404400,"Census Tract 4044","Bus","Fall 2023","Saturday",137,57,16119
+"2","Delaware County",42045404500,"Census Tract 4045","Bus","Fall 2023","Saturday",73,152,16120
+"3","Delaware County",42045404600,"Census Tract 4046","Bus","Fall 2023","Saturday",40,47,16121
+"4","Delaware County",42045404700,"Census Tract 4047","Bus","Fall 2023","Saturday",127,153,16122
+"5","Delaware County",42045404800,"Census Tract 4048","Bus","Fall 2023","Saturday",79,70,16123
+"6","Delaware County",42045404900,"Census Tract 4049","Bus","Fall 2023","Saturday",11,24,16124
+"7","Delaware County",42045405000,"Census Tract 4050","Bus","Fall 2023","Saturday",1130,1016,16125
+"8","Delaware County",42045405100,"Census Tract 4051","Bus","Fall 2023","Saturday",69,72,16126
+"9","Delaware County",42045405200,"Census Tract 4052","Bus","Fall 2023","Saturday",101,109,16127
+"10","Delaware County",42045405300,"Census Tract 4053","Bus","Fall 2023","Saturday",64,106,16128
+"11","Delaware County",42045405400,"Census Tract 4054","Bus","Fall 2023","Saturday",86,51,16129
+"12","Delaware County",42045410700,"Census Tract 4107","Bus","Fall 2023","Saturday",310,307,16422
